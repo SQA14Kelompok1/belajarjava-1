@@ -1,6 +1,6 @@
 package org.example;
 
-//tambahan komen
+//tambahan komenasdas
 public class Kalkulator {
     private int angka1;
     private int angka2;
